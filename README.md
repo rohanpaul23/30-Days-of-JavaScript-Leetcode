@@ -11,7 +11,7 @@
 [9. Return Length of Arguments Passed](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/9ReturnLengthOfArgsPassed) <br>
 [10. Allow One Function Call](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/10AllowOneFunctionCall.js) <br>
 [11. Memoize](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/11MemoizeFunctionCall.js) <br>
-[12. Add Two Promises]() <br>
-[13. Sleep]() <br>
-[14. Timeout Cancellation]() <br>
-[15. Promise Time Limit]() <br>
+[12. Add Two Promises](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/12AddTwoPromises.js) <br>
+[13. Sleep](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/13Sleep.js) <br>
+[14. Timeout Cancellation](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/14timeOutCancellation.js) <br>
+[15. Promise Time Limit](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/15PromiseTimeLimit.js) <br>
