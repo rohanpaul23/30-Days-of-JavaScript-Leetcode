@@ -15,3 +15,10 @@
 [13. Sleep](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/13Sleep.js) <br>
 [14. Timeout Cancellation](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/14timeOutCancellation.js) <br>
 [15. Promise Time Limit](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/15PromiseTimeLimit.js) <br>
+[16. Cache With Time Limit]() <br>
+[17. Debounce]() <br>
+[18. Is Object Empty]() <br>
+[19. Execute Asynchronous Functions in Parallel]() <br>
+[20. Chunk Array]() <br>
+[21. Array Prototype Last]() <br>
+[22. Group By]() <br>
