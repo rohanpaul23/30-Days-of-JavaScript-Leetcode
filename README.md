@@ -22,3 +22,7 @@
 [20. Chunk Array]() <br>
 [21. Array Prototype Last]() <br>
 [22. Group By]() <br>
+[23. Sort By]() <br>
+[24. Join 2 Arrays By Id]() <br>
+[25. Flatten Deeply Nested Array]() <br>
+[26. Compact Object]() <br>
