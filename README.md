@@ -15,14 +15,14 @@
 [13. Sleep](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/13Sleep.js) <br>
 [14. Timeout Cancellation](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/14timeOutCancellation.js) <br>
 [15. Promise Time Limit](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/15PromiseTimeLimit.js) <br>
-[16. Cache With Time Limit]() <br>
-[17. Debounce]() <br>
-[18. Is Object Empty]() <br>
-[19. Execute Asynchronous Functions in Parallel]() <br>
-[20. Chunk Array]() <br>
-[21. Array Prototype Last]() <br>
-[22. Group By]() <br>
-[23. Sort By]() <br>
-[24. Join 2 Arrays By Id]() <br>
-[25. Flatten Deeply Nested Array]() <br>
-[26. Compact Object]() <br>
+[16. Cache With Time Limit](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/16CacheWithTimeLimit.js) <br>
+[17. Debounce](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/17debounce.js) <br>
+[18. Is Object Empty](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/19IsObjectEmpty.js) <br>
+[19. Execute Asynchronous Functions in Parallel](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/18ExecuteAsynchronousFunctionsInParallel.js) <br>
+[20. Chunk Array](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/20ChunkArray.js) <br>
+[21. Array Prototype Last](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/21ArrayPrototypeLast.js) <br>
+[22. Group By](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/22GroupBy.js) <br>
+[23. Sort By](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/23SortBy.js) <br>
+[24. Join 2 Arrays By Id](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/24Join2ArraysById.js) <br>
+[25. Flatten Deeply Nested Array](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/25FlattenDeeplyNestedArray.js) <br>
+[26. Compact Object](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/26CompactObject.js) <br>
