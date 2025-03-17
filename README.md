@@ -14,15 +14,19 @@
 [12. Add Two Promises](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/12AddTwoPromises.js) <br>
 [13. Sleep](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/13Sleep.js) <br>
 [14. Timeout Cancellation](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/14timeOutCancellation.js) <br>
-[15. Promise Time Limit](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/15PromiseTimeLimit.js) <br>
-[16. Cache With Time Limit](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/16CacheWithTimeLimit.js) <br>
-[17. Debounce](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/17debounce.js) <br>
-[18. Is Object Empty](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/19IsObjectEmpty.js) <br>
-[19. Execute Asynchronous Functions in Parallel](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/18ExecuteAsynchronousFunctionsInParallel.js) <br>
-[20. Chunk Array](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/20ChunkArray.js) <br>
-[21. Array Prototype Last](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/21ArrayPrototypeLast.js) <br>
-[22. Group By](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/22GroupBy.js) <br>
-[23. Sort By](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/23SortBy.js) <br>
-[24. Join 2 Arrays By Id](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/24Join2ArraysById.js) <br>
-[25. Flatten Deeply Nested Array](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/25FlattenDeeplyNestedArray.js) <br>
-[26. Compact Object](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/26CompactObject.js) <br>
+[15. Interval Cancellation](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/15IntervalCancellation.js) <br>
+[16. Promise Time Limit](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/16PromiseTimeLimit.js) <br>
+[17. Cache With Time Limit](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/17CacheWithTimeLimit.js) <br>
+[18. Debounce](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/18debounce.js) <br>
+[19. Execute Asynchronous Functions in Parallel](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/19ExecuteAsynchronousFunctionsInParallel.js) <br>
+[20. Is Object Empty](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/20IsObjectEmpty.js) <br>
+[21. Chunk Array](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/21ChunkArray.js) <br>
+[22. Array Prototype Last](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/22ArrayPrototypeLast.js) <br>
+[23. Group By](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/23GroupBy.js) <br>
+[24. Sort By](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/24SortBy.js) <br>
+[25. Join 2 Arrays By Id](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/25Join2ArraysById.js) <br>
+[26. Flatten Deeply Nested Array](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/26FlattenDeeplyNestedArray.js) <br>
+[27. Compact Object](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/27CompactObject.js) <br>
+[28. Event Emitter](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/28EventEmitter.js) <br>
+[29. Array Wrapper](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/29ArrayWrapper.js) <br>
+[30. Calculator with Method Chaining](https://github.com/rohanpaul23/30-Days-of-JavaScript-Leetcode/blob/main/30CalculatorWithMethodChaining.js) <br>
